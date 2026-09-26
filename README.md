@@ -57,5 +57,5 @@ As a Pharma Commercial Analyst, I analyzed 74,000+ records covering:
 
 📊 Power BI Dashboard
 Click below to view the interactive dashboard:
-![Executive Overview](
+![Executive Overview](Resources/page1.png
 )

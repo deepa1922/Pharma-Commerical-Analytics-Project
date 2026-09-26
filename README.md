@@ -1,4 +1,4 @@
-💊 Pharma-Commercial-Analytics
+# 💊 Pharma-Commercial-Analytics
 This project involves analyzing a comprehensive simulated pharma commercial dataset using Power BI. The goal is to uncover insights about prescribing behavior, patient treatment persistency, and competitive market dynamics to help pharma brands improve market access, patient retention, and sales strategy.
 
 📊 Project Overview

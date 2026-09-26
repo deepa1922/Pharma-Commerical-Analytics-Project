@@ -1,7 +1,7 @@
 # 💊 Pharma-Commercial-Analytics
 This project involves analyzing a comprehensive simulated pharma commercial dataset using Power BI. The goal is to uncover insights about prescribing behavior, patient treatment persistency, and competitive market dynamics to help pharma brands improve market access, patient retention, and sales strategy.
 
-📊 Project Overview
+## 📊 Project Overview
 As a Pharma Commercial Analyst, I analyzed 74,000+ records covering:
 
 * Weekly prescriptions across 300 doctors and 4 competing GLP-1 diabetes drugs (Ozempic, Mounjaro, Trulicity, Rybelsus)
@@ -9,7 +9,7 @@ As a Pharma Commercial Analyst, I analyzed 74,000+ records covering:
 * Insurance/formulary coverage, sales call activity, and payer type
 * Doctor specialty, prescribing segment, and geographic territory
 
-🎯 Business Objectives
+## 🎯 Business Objectives
 
 1. Understand how prescribing behavior varies by doctor segment, specialty, and territory
 2. Identify how insurance coverage affects prescribing volume
@@ -17,7 +17,7 @@ As a Pharma Commercial Analyst, I analyzed 74,000+ records covering:
 4. Track competitive market share dynamics over time
 5. Quantify the impact of sales engagement on prescribing
 
-🧩 Key Analysis Areas
+## 🧩 Key Analysis Areas
 1. Prescriber & Territory Insights
 
 * Prescribing volume by state, specialty, and doctor segment (High/Medium/Low)
@@ -33,14 +33,14 @@ As a Pharma Commercial Analyst, I analyzed 74,000+ records covering:
 * Insurance/formulary coverage impact on prescribing
 * Market share trend across all 4 competitors over time
 
-📌 Key Tools Used
+## 📌 Key Tools Used
 
 * Power BI for visualization and dashboarding
 * DAX for calculated metrics (e.g., Days on Therapy, Market Share %, HCP Segment)
 * Power Query for data cleaning and shaping
 * SQL (MySQL) as the connected source database
 
-📌 Key Insights
+## 📌 Key Insights
 
 * Insurance coverage was the strongest driver of prescribing — prescriptions ran ~3x higher when a drug had favorable coverage, and this issue was specific to one drug, not the whole market.
 * Uninsured (cash-pay) patients discontinued treatment ~4-5x faster than insured patients — the strongest patient-level finding.
@@ -48,7 +48,7 @@ As a Pharma Commercial Analyst, I analyzed 74,000+ records covering:
 * Sales call volume rose alongside a market access disruption, suggesting a reactive commercial response.
 * Endocrinologists drive the large majority of prescribing volume, though general-medicine specialties remain a meaningful secondary channel.
 
-✅ Recommendations
+## ✅ Recommendations
 
 * Prioritize protecting or restoring favorable insurance coverage, since it has the single biggest effect on prescribing.
 * Introduce affordability support programs (e.g., co-pay assistance) for uninsured patients to improve treatment persistency.

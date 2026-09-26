@@ -1,0 +1,301 @@
+hcp_id,specialty,state,region
+HCP100000,Internal Medicine,California,West
+HCP100001,Primary Care,Georgia,South
+HCP100002,Endocrinology,Texas,South
+HCP100003,Internal Medicine,Texas,South
+HCP100004,Endocrinology,Texas,South
+HCP100005,Primary Care,New York,Northeast
+HCP100006,Internal Medicine,Ohio,Midwest
+HCP100007,Primary Care,California,West
+HCP100008,Primary Care,Georgia,South
+HCP100009,Endocrinology,Texas,South
+HCP100010,Endocrinology,Michigan,Midwest
+HCP100011,Family Medicine,Ohio,Midwest
+HCP100012,Primary Care,Georgia,South
+HCP100013,Family Medicine,New York,Northeast
+HCP100014,Family Medicine,Florida,South
+HCP100015,Endocrinology,Illinois,Midwest
+HCP100016,Primary Care,Texas,South
+HCP100017,Internal Medicine,Texas,South
+HCP100018,Endocrinology,Nevada,West
+HCP100019,Endocrinology,California,West
+HCP100020,Family Medicine,Florida,South
+HCP100021,Family Medicine,Texas,South
+HCP100022,Primary Care,Georgia,South
+HCP100023,Internal Medicine,California,West
+HCP100024,Primary Care, illinois,South
+HCP100025,Internal Medicine,Texas,South
+HCP100026,Primary Care,California,West
+HCP100027,Primary Care,Florida,South
+HCP100028,Family Medicine,Texas,South
+HCP100029,Family Medicine,Texas,South
+HCP100030,Primary Care,California,West
+HCP100031,Family Medicine,Illinois,Midwest
+HCP100032,Primary Care,New York,Northeast
+HCP100033,Internal Medicine,Florida,South
+HCP100034,Internal Medicine,Texas,South
+HCP100035,Primary Care,Michigan,Midwest
+HCP100036,Family Medicine,Florida,South
+HCP100037,Primary Care,Texas,South
+HCP100038,Other,Ohio,Midwest
+HCP100039,Other,Texas,South
+HCP100040,Family Medicine,New York,Northeast
+HCP100041,Family Medicine,Texas,South
+HCP100042,Endocrinology,Nevada,West
+HCP100043,Internal Medicine,New York,Northeast
+HCP100044,Internal Medicine,California,West
+HCP100045,Internal Medicine,Florida,South
+HCP100046,Internal Medicine,Florida,South
+HCP100047,Endocrinology,California,West
+HCP100048,Endocrinology,New York,Northeast
+HCP100049,Family Medicine,Florida,South
+HCP100050,Endocrinology,Georgia,South
+HCP100051,Internal Medicine,Texas,South
+HCP100052,Endocrinology,Texas,South
+HCP100053,Primary Care,Florida,South
+HCP100054,Endocrinology,Texas,South
+HCP100055,Internal Medicine,Georgia,South
+HCP100056,Primary Care,Florida,South
+HCP100057,Primary Care,Texas,South
+HCP100058,Primary Care,California,West
+HCP100059,Primary Care,New York,Northeast
+HCP100060,Internal Medicine,Florida,South
+HCP100061,Endocrinology,Texas,South
+HCP100062,Family Medicine,Florida,South
+HCP100063,Family Medicine,California,West
+HCP100064,Other,Ohio,Midwest
+HCP100065,Primary Care,Michigan,Midwest
+HCP100066,Family Medicine,California,West
+HCP100067,Endocrinology,Texas,South
+HCP100068,Other,Georgia ,Northeast
+HCP100069,Endocrinology,Texas,South
+HCP100070,Primary Care,Florida,South
+HCP100071,Endocrinology,Texas,South
+HCP100072,Family Medicine,New York,Northeast
+HCP100073,Primary Care,Michigan,Midwest
+HCP100074,Other,Ohio,Midwest
+HCP100075,Endocrinology,Georgia,South
+HCP100076,Family Medicine,California,West
+HCP100077,Primary Care,Michigan,Midwest
+HCP100078,Primary Care,California,West
+HCP100079,Internal Medicine,Texas,South
+HCP100080,Endocrinology,Nevada,West
+HCP100081,Internal Medicine,Georgia,South
+HCP100082,Primary Care,Florida,South
+HCP100083,Endocrinology,California,West
+HCP100084,Primary Care,California,West
+HCP100085,Primary Care,Florida,South
+HCP100086,Primary Care,Florida,South
+HCP100087,Other,Florida,South
+HCP100088,Internal Medicine,Florida,South
+HCP100089,Endocrinology,Ohio,Midwest
+HCP100090,Internal Medicine,Ohio,Midwest
+HCP100091,Primary Care,California,West
+HCP100092,Internal Medicine,Michigan,Midwest
+HCP100093,Primary Care,New York,Northeast
+HCP100094,Internal Medicine,Georgia,South
+HCP100095,Internal Medicine,Georgia,South
+HCP100096,Primary Care,Florida,South
+HCP100097,Family Medicine,Ohio,Midwest
+HCP100098,Internal Medicine,California,West
+HCP100099,Internal Medicine,Florida,South
+HCP100100,Endocrinology,Illinois,Midwest
+HCP100101,Primary Care,California,West
+HCP100102,Primary Care,Georgia,South
+HCP100103,Endocrinology,Texas,South
+HCP100104,Endocrinology,New York,Northeast
+HCP100105,Internal Medicine,California,West
+HCP100106,Primary Care,Florida,South
+HCP100107,Internal Medicine,Illinois,Midwest
+HCP100108,Endocrinology,Georgia,South
+HCP100109,Internal Medicine,Texas,South
+HCP100110,Endocrinology,Georgia,South
+HCP100111,Family Medicine,Texas,South
+HCP100112,Family Medicine,FLORIDA,South
+HCP100113,Internal Medicine,California,West
+HCP100114,Primary Care,Nevada,West
+HCP100115,Endocrinology,California,West
+HCP100116,Internal Medicine,California,West
+HCP100117,Internal Medicine,Florida,South
+HCP100118,Endocrinology,California,West
+HCP100119,Internal Medicine,Florida,South
+HCP100120,Endocrinology,Georgia,South
+HCP100121,Primary Care,Ohio,Midwest
+HCP100122,Internal Medicine,Texas,South
+HCP100123,Family Medicine,Texas,South
+HCP100124,Primary Care,Texas,South
+HCP100125,Primary Care,California,West
+HCP100126,Primary Care,Georgia,South
+HCP100127,Endocrinology,Illinois,Midwest
+HCP100128,Other,Texas,South
+HCP100129,Family Medicine,Florida,South
+HCP100130,Internal Medicine,Michigan,Midwest
+HCP100131,Endocrinology,New York,Northeast
+HCP100132,Endocrinology,New York,Northeast
+HCP100133,Other,Ohio,Midwest
+HCP100134,Endocrinology,California,West
+HCP100135,Endocrinology,Georgia,South
+HCP100136,Family Medicine,New York,Northeast
+HCP100137,Primary Care,Illinois,Midwest
+HCP100138,Primary Care,Texas,South
+HCP100139,Primary Care,New York,Northeast
+HCP100140,Internal Medicine,Florida,South
+HCP100141,Primary Care,Texas,South
+HCP100142,Family Medicine,California,West
+HCP100143,Primary Care,Texas,South
+HCP100144,Primary Care,Michigan,Midwest
+HCP100145,Endocrinology,California,West
+HCP100146,Internal Medicine,California,West
+HCP100147,Endocrinology,Texas,South
+HCP100148,Internal Medicine,California,West
+HCP100149,Internal Medicine,Nevada,West
+HCP100150,Other,Ohio,Midwest
+HCP100151,Endocrinology,Texas,South
+HCP100152,Endocrinology,Florida,South
+HCP100153,Internal Medicine,California,West
+HCP100154,Primary Care,Georgia,South
+HCP100155,Endocrinology,California,West
+HCP100156,Family Medicine,New York,Northeast
+HCP100157,Internal Medicine,Texas,South
+HCP100158,Primary Care,California,West
+HCP100159,Endocrinology,New York,Northeast
+HCP100160,Family Medicine,Florida,South
+HCP100161,Internal Medicine,Texas,South
+HCP100162,Other,California,West
+HCP100163,Primary Care,New York,Northeast
+HCP100164,Primary Care,Texas,South
+HCP100165,Endocrinology,California,West
+HCP100166,Primary Care,Michigan,Midwest
+HCP100167,Internal Medicine,California,West
+HCP100168,Endocrinology,California,West
+HCP100169,Primary Care,Texas,South
+HCP100170,Primary Care,California,West
+HCP100171,Internal Medicine,Texas,South
+HCP100172,Endocrinology,Florida,South
+HCP100173,Family Medicine,Michigan,Midwest
+HCP100174,Primary Care,Ohio,Midwest
+HCP100175,Family Medicine,California,West
+HCP100176,Family Medicine, Ohio,Midwest
+HCP100177,Family Medicine,California,West
+HCP100178,Primary Care,Illinois,Midwest
+HCP100179,Family Medicine,Texas,South
+HCP100180,Primary Care,New York,Northeast
+HCP100181,Primary Care,New York,Northeast
+HCP100182,Endocrinology,Illinois,Midwest
+HCP100183,Primary Care,Michigan,Midwest
+HCP100184,Endocrinology,Nevada,West
+HCP100185,Other,Georgia,South
+HCP100186,Endocrinology,New York,Northeast
+HCP100187,Primary Care,California,West
+HCP100188,Family Medicine,Georgia,South
+HCP100189,Endocrinology,Texas,South
+HCP100190,Internal Medicine,California,West
+HCP100191,Internal Medicine,Florida,South
+HCP100192,Internal Medicine,Texas,South
+HCP100193,Internal Medicine,Florida,South
+HCP100194,Family Medicine,Georgia,South
+HCP100195,Family Medicine,Florida,South
+HCP100196,Internal Medicine,Ohio,Midwest
+HCP100197,Primary Care,California,West
+HCP100198,Endocrinology,Nevada,West
+HCP100199,Endocrinology,Texas,South
+HCP100200,Family Medicine,New York,Northeast
+HCP100201,Primary Care,Georgia,South
+HCP100202,Family Medicine,California,West
+HCP100203,Primary Care,new york,Northeast
+HCP100204,Endocrinology,New York,Northeast
+HCP100205,Primary Care,New York,Northeast
+HCP100206,Primary Care,California,West
+HCP100207,Endocrinology,California,West
+HCP100208,Primary Care,Ohio,Midwest
+HCP100209,Family Medicine,Ohio,Midwest
+HCP100210,Primary Care,California,West
+HCP100211,Primary Care,Florida,South
+HCP100212,Other,Nevada,West
+HCP100213,Endocrinology,Texas,South
+HCP100214,Internal Medicine,California,West
+HCP100215,Other,Nevada,West
+HCP100216,Primary Care,Nevada,West
+HCP100217,Internal Medicine,Ohio,Midwest
+HCP100218,Internal Medicine,Florida,South
+HCP100219,Endocrinology,California,West
+HCP100220,Internal Medicine,Texas,South
+HCP100221,Family Medicine,Florida,South
+HCP100222,Other,Georgia,South
+HCP100223,Internal Medicine,Florida,South
+HCP100224,Primary Care,Texas,South
+HCP100225,Internal Medicine,Texas,South
+HCP100226,Other,Florida,South
+HCP100227,Other,Michigan,Midwest
+HCP100228,Primary Care,Florida,South
+HCP100229,Other,Ohio,Midwest
+HCP100230,Internal Medicine,California,West
+HCP100231,Family Medicine,California,West
+HCP100232,Endocrinology,Illinois,Midwest
+HCP100233,Other,Florida,South
+HCP100234,Internal Medicine,Florida,South
+HCP100235,Endocrinology,michigan,South
+HCP100236,Internal Medicine,Texas,South
+HCP100237,Endocrinology,New York,Northeast
+HCP100238,Internal Medicine,Texas,South
+HCP100239,Internal Medicine,Texas,South
+HCP100240,Internal Medicine,New York,Northeast
+HCP100241,Family Medicine,Michigan,Midwest
+HCP100242,Internal Medicine,TEXAS,Midwest
+HCP100243,Endocrinology,Florida,South
+HCP100244,Internal Medicine,California,West
+HCP100245,Internal Medicine,California,West
+HCP100246,Endocrinology,Florida,South
+HCP100247,Primary Care,California,West
+HCP100248,Primary Care,California,West
+HCP100249,Family Medicine,California,West
+HCP100250,Family Medicine,Michigan,Midwest
+HCP100251,Endocrinology,California,West
+HCP100252,Primary Care,California,West
+HCP100253,Family Medicine,Ohio,Midwest
+HCP100254,Internal Medicine,Georgia,South
+HCP100255,Family Medicine,New York,Northeast
+HCP100256,Internal Medicine,Texas,South
+HCP100257,Primary Care,Ohio,Midwest
+HCP100258,Primary Care,Michigan,Midwest
+HCP100259,Primary Care,Florida,South
+HCP100260,Family Medicine,Michigan,Midwest
+HCP100261,Primary Care,california,South
+HCP100262,Primary Care,Texas,South
+HCP100263,Internal Medicine,New York,Northeast
+HCP100264,Primary Care,Georgia,South
+HCP100265,Primary Care,California,West
+HCP100266,Other,Florida,South
+HCP100267,Internal Medicine,California,West
+HCP100268,Internal Medicine,Illinois,Midwest
+HCP100269,Other,Florida,South
+HCP100270,Internal Medicine,California,West
+HCP100271,Other,Ohio,Midwest
+HCP100272,Internal Medicine,Michigan,Midwest
+HCP100273,Internal Medicine,New York,Northeast
+HCP100274,Primary Care,Texas,South
+HCP100275,Primary Care,Florida,South
+HCP100276,Internal Medicine,California,West
+HCP100277,Endocrinology,California,West
+HCP100278,Endocrinology,Texas,South
+HCP100279,Internal Medicine,Texas,South
+HCP100280,Internal Medicine,New York,Northeast
+HCP100281,Endocrinology,California,West
+HCP100282,Endocrinology,California,West
+HCP100283,Internal Medicine,New York,Northeast
+HCP100284,Primary Care,Ohio,Midwest
+HCP100285,Internal Medicine,Ohio,Midwest
+HCP100286,Endocrinology,New York,Northeast
+HCP100287,Family Medicine,Michigan,Midwest
+HCP100288,Primary Care,Florida,South
+HCP100289,Primary Care,New York,Northeast
+HCP100290,Primary Care,Texas,South
+HCP100291,Internal Medicine,Texas,South
+HCP100292,Other,Ohio,Midwest
+HCP100293,Endocrinology,Texas,South
+HCP100294,Endocrinology,New York,Northeast
+HCP100295,Endocrinology,Florida,South
+HCP100296,Family Medicine,California,West
+HCP100297,Primary Care,California,West
+HCP100298,Other,Florida,South
+HCP100299,Endocrinology,New York,Northeast

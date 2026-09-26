@@ -1,5 +1,0 @@
-drug_id,drug_name,manufacturer,molecule,mechanism_class,route,is_own_brand,base_share
-OZEM,Ozempic,Novo Nordisk,semaglutide,GLP-1 receptor agonist,"Injectable, once weekly",True,1.0
-MOUN,Mounjaro,Eli Lilly,tirzepatide,Dual GIP/GLP-1 receptor agonist,"Injectable, once weekly",False,1.05
-TRUL,Trulicity,Eli Lilly,dulaglutide,GLP-1 receptor agonist,"Injectable, once weekly",False,0.95
-RYBL,Rybelsus,Novo Nordisk,semaglutide (oral),GLP-1 receptor agonist,"Oral tablet, once daily",False,0.35
